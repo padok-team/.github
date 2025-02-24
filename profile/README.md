@@ -1,4 +1,4 @@
-# Padok ☁️ Cloud Experts
+# Theodo ☁️ Cloud Experts
 
 🇫🇷 We are a Paris-based team of passionate engineers.
 
@@ -6,7 +6,7 @@
 
 👷‍♂️ Whether it is to improve the experience of your developers, ensure the high availability of your applications or secure your infrastructure, our experts design and execute tailored strategies with you. 
 
-👩‍💻 Find all our Build, Managed Services, and Cybersecurity offers [on our website](https://padok.fr/)! 
+👩‍💻 Find all our Build, Managed Services, and Cybersecurity offers [on our website](https://cloud.theodo.com/)! 
 
 ---
 
@@ -16,7 +16,7 @@
 
 👷‍♂️ Que ce soit pour améliorer l'expérience de vos développeurs, assurer une haute disponibilité de vos applications ou encore sécuriser votre infrastructure, nos experts conçoivent et exécutent avec vous des stratégies sur-mesure. 
 
-👩‍💻 Retrouvez toutes nos offres de Build, Infogérance et Cybersécurité [sur notre site](https://padok.fr/) ! 
+👩‍💻 Retrouvez toutes nos offres de Build, Infogérance et Cybersécurité [sur notre site](https://cloud.theodo.com/) ! 
 
 <!--
 
